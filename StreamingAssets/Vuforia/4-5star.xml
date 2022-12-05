@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pxa" size="4.000000 4.832930" />
+    <ImageTarget name="pxArt" size="4.000000 4.087193" />
+    <ImageTarget name="cl2" size="4.000000 3.453125" />
+    <ImageTarget name="cl1" size="4.000000 4.037087" />
+    <ImageTarget name="bullseye" size="4.000000 4.799805" />
+    <ImageTarget name="arlab" size="4.000000 4.000000" />
+  </Tracking>
+</QCARConfig>
